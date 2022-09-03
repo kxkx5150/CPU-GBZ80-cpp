@@ -9,6 +9,13 @@ Z80 Custom
 
 ### WIP
 
+install SDL2
+
+<pre>
+sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-net-dev libsdl2-ttf-dev
+</pre>
+
+<br><br><br>
 
 https://user-images.githubusercontent.com/10168979/183100975-79c82728-b3e6-4870-8353-94a8cfb4a65a.mp4
 
